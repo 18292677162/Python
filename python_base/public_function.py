@@ -43,9 +43,9 @@ print(3 not in (1, 2, 3))
 
 list2 = [1, 2, 3, 4]
 print(list2)
-list2.extend([5, 6])  # 每个元素分别追加
+list2.extend([5, 6])  # 扩展 每个元素分别追加
 print(list2)
-list2.append([5, 6])  # 列表参数当成一个独立的元素
+list2.append([5, 6])  # 增加 列表参数当成一个独立的元素
 print(list2)
 
 for i in range(3):
