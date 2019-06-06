@@ -9,33 +9,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/BCardManagement$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1559737816907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BCardManagement$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1559739350931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BCardManagement$cards_tools.coverage" NAME="cards_tools Coverage Results" MODIFIED="1559728481362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cards_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="312">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cards_tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#21#203#0" />
-                <element signature="e#456#870#0" />
-                <element signature="e#893#1301#0" />
-                <element signature="e#1133#1288#0" />
-                <element signature="e#2077#2805#0" />
-                <element signature="e#2805#3071#0" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -55,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cards_tools.py" />
         <option value="$PROJECT_DIR$/cards_main.py" />
+        <option value="$PROJECT_DIR$/cards_tools.py" />
       </list>
     </option>
   </component>
@@ -71,6 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +75,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,20 +175,22 @@
       <workItem from="1559728313390" duration="49000" />
       <workItem from="1559728364980" duration="25000" />
       <workItem from="1559728462729" duration="8549000" />
+      <workItem from="1559738907207" duration="154000" />
+      <workItem from="1559739268000" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15573000" />
+    <option name="totallyTimeSpent" value="15916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="705" y="2" width="1214" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14731368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.152513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="运行" order="0" weight="0.26516855" />
+      <window_info anchor="bottom" id="运行" order="0" weight="0.68876404" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="调试" order="2" weight="0.32921347" />
       <window_info anchor="bottom" id="Find" order="3" />
@@ -224,25 +218,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cards_tools.py">
+    <entry file="file://$PROJECT_DIR$/cards_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#21#203#0" />
-            <element signature="e#456#870#0" />
-            <element signature="e#893#1301#0" />
-            <element signature="e#1133#1288#0" />
-            <element signature="e#2077#2805#0" />
-            <element signature="e#2805#3071#0" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/cards_tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        <state relative-caret-position="168">
+          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
